@@ -1,6 +1,7 @@
 .zcode/
 *.blend1
 _preview_*.png
+*_preview.png
 _diag_*.png
 _t[ABCDEM].png
 _gpu_test.png

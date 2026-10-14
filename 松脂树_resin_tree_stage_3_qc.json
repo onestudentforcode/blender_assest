@@ -1,0 +1,78 @@
+{
+  "crop_id": "resin_tree",
+  "stage": 3,
+  "renders": [
+    {
+      "file": "松脂树_resin_tree_stage_3.png",
+      "size": [
+        1280,
+        1920
+      ],
+      "alpha_sum": 419268.59375,
+      "margins_left_right_bottom_top": [
+        73,
+        65,
+        44,
+        653
+      ],
+      "corner_alpha": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "file": "松脂树_resin_tree_stage_3_128.png",
+      "size": [
+        128,
+        192
+      ],
+      "alpha_sum": 4192.88671875,
+      "margins_left_right_bottom_top": [
+        7,
+        6,
+        4,
+        65
+      ],
+      "corner_alpha": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "mesh_bounds": [
+    [
+      -1.618506908416748,
+      1.5934374332427979
+    ],
+    [
+      -0.5922477841377258,
+      0.7064921855926514
+    ],
+    [
+      0.006249207071959972,
+      3.5642409324645996
+    ]
+  ],
+  "root_location": [
+    0.0,
+    0.0,
+    0.0
+  ],
+  "objects": 209,
+  "mesh_faces": 57162,
+  "camera": {
+    "elevation": 35,
+    "ortho_width": 3.5999999046325684,
+    "sensor_fit": "HORIZONTAL"
+  },
+  "collections": [
+    "RT_BODY",
+    "RT_SCARS",
+    "RT_RESIN"
+  ],
+  "device": "GPU"
+}

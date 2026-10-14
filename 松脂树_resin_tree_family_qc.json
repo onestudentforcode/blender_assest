@@ -1,0 +1,365 @@
+{
+  "crop_id": "resin_tree",
+  "stages": [
+    {
+      "stage": 0,
+      "root_location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "root_pixel_128": [
+        63.99998474121094,
+        176.7111840248108
+      ],
+      "mesh_bounds": [
+        [
+          -0.07508623600006104,
+          0.13902561366558075
+        ],
+        [
+          -0.11405736953020096,
+          0.09789888560771942
+        ],
+        [
+          -0.002677059732377529,
+          0.2591315507888794
+        ]
+      ],
+      "outputs": [
+        {
+          "file": "松脂树_resin_tree_stage_0.png",
+          "size": [
+            1280,
+            1920
+          ],
+          "alpha_sum": 1853.039306640625,
+          "bbox_top_left": [
+            591,
+            1681,
+            667,
+            1774
+          ],
+          "margins_left_right_bottom_top": [
+            591,
+            613,
+            146,
+            1681
+          ],
+          "corners": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "file": "松脂树_resin_tree_stage_0_128.png",
+          "size": [
+            128,
+            192
+          ],
+          "alpha_sum": 18.592159271240234,
+          "bbox_top_left": [
+            59,
+            168,
+            67,
+            178
+          ],
+          "margins_left_right_bottom_top": [
+            59,
+            61,
+            14,
+            168
+          ],
+          "corners": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "stage": 1,
+      "root_location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "root_pixel_128": [
+        63.99998474121094,
+        176.7111840248108
+      ],
+      "mesh_bounds": [
+        [
+          -0.24227023124694824,
+          0.47728443145751953
+        ],
+        [
+          -0.18168553709983826,
+          0.16558551788330078
+        ],
+        [
+          0.0033359334338456392,
+          1.089464783668518
+        ]
+      ],
+      "outputs": [
+        {
+          "file": "松脂树_resin_tree_stage_1.png",
+          "size": [
+            1280,
+            1920
+          ],
+          "alpha_sum": 24076.16796875,
+          "bbox_top_left": [
+            470,
+            1435,
+            726,
+            1799
+          ],
+          "margins_left_right_bottom_top": [
+            470,
+            554,
+            121,
+            1435
+          ],
+          "corners": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "file": "松脂树_resin_tree_stage_1_128.png",
+          "size": [
+            128,
+            192
+          ],
+          "alpha_sum": 240.7176513671875,
+          "bbox_top_left": [
+            47,
+            143,
+            73,
+            180
+          ],
+          "margins_left_right_bottom_top": [
+            47,
+            55,
+            12,
+            143
+          ],
+          "corners": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "stage": 2,
+      "root_location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "root_pixel_128": [
+        63.99998474121094,
+        176.7111840248108
+      ],
+      "mesh_bounds": [
+        [
+          -1.1055736541748047,
+          1.0219663381576538
+        ],
+        [
+          -0.3787326216697693,
+          0.3150215446949005
+        ],
+        [
+          0.0034447885118424892,
+          2.408745288848877
+        ]
+      ],
+      "outputs": [
+        {
+          "file": "松脂树_resin_tree_stage_2.png",
+          "size": [
+            1280,
+            1920
+          ],
+          "alpha_sum": 174449.9375,
+          "bbox_top_left": [
+            277,
+            1004,
+            1033,
+            1829
+          ],
+          "margins_left_right_bottom_top": [
+            277,
+            247,
+            91,
+            1004
+          ],
+          "corners": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "file": "松脂树_resin_tree_stage_2_128.png",
+          "size": [
+            128,
+            192
+          ],
+          "alpha_sum": 1744.08251953125,
+          "bbox_top_left": [
+            27,
+            100,
+            103,
+            183
+          ],
+          "margins_left_right_bottom_top": [
+            27,
+            25,
+            9,
+            100
+          ],
+          "corners": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      ]
+    },
+    {
+      "stage": 3,
+      "root_location": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "root_pixel_128": [
+        63.99998474121094,
+        176.7111840248108
+      ],
+      "mesh_bounds": [
+        [
+          -1.618506908416748,
+          1.5934374332427979
+        ],
+        [
+          -0.5922477841377258,
+          0.7064921855926514
+        ],
+        [
+          0.006249207071959972,
+          3.5642409324645996
+        ]
+      ],
+      "outputs": [
+        {
+          "file": "松脂树_resin_tree_stage_3.png",
+          "size": [
+            1280,
+            1920
+          ],
+          "alpha_sum": 419268.59375,
+          "bbox_top_left": [
+            73,
+            653,
+            1215,
+            1876
+          ],
+          "margins_left_right_bottom_top": [
+            73,
+            65,
+            44,
+            653
+          ],
+          "corners": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        {
+          "file": "松脂树_resin_tree_stage_3_128.png",
+          "size": [
+            128,
+            192
+          ],
+          "alpha_sum": 4192.88671875,
+          "bbox_top_left": [
+            7,
+            65,
+            122,
+            188
+          ],
+          "margins_left_right_bottom_top": [
+            7,
+            6,
+            4,
+            65
+          ],
+          "corners": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      ]
+    }
+  ],
+  "mature_preserved": {
+    "松脂树_resin_tree_stage_3.png": {
+      "sha256": "c7ad50bc94daf3150fcf84cfe1885f74a7f5eefbec2c3c864dd900e4daa8272a",
+      "unchanged": true
+    },
+    "松脂树_resin_tree_stage_3_128.png": {
+      "sha256": "8753915f2c38b963266fe5a54addb32bc9fbdd9c06aba6c72dff0fbc5125323c",
+      "unchanged": true
+    },
+    "松脂树_resin_tree_stage_3.blend": {
+      "sha256": "c74f10942ba043899aa5989e4189f68c184eafe2b7634bb2ef0d5a5f5fe79d81",
+      "unchanged": true
+    }
+  },
+  "contact": {
+    "file": "松脂树_resin_tree_contact.png",
+    "size": [
+      2800,
+      1200
+    ],
+    "alpha_sum": 188041.046875,
+    "bbox_top_left": [
+      300,
+      450,
+      2765,
+      1185
+    ],
+    "margins_left_right_bottom_top": [
+      300,
+      35,
+      15,
+      450
+    ],
+    "corners": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  }
+}
