@@ -6,6 +6,9 @@
 服务对象：`C:\Users\88445\Desktop\code\rpgmap`（P8 经营模块）。比例约定
 **1 游戏格 = 2.0 Blender 单位**（与仓库耕地土块白模原生 2.0×2.0 一致）。
 
+上游植物接入：[交接文档](UPSTREAM_PLANT_HANDOFF.md)与[逐文件映射/锚点/校验值](UPSTREAM_PLANT_ASSETS.json)。
+覆盖P8七植物四阶段，含油籽花独立花期，并明确当前Godot绘制入口、采后规则和上游待验收项。
+
 ## 资产清单
 
 | 素材 | 脚本 | 产出 | 说明 |
