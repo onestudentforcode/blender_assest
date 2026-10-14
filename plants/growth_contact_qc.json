@@ -1,0 +1,142 @@
+{
+  "golden_wheat": {
+    "file": "plants/golden_wheat/contact.png",
+    "size": [
+      2560,
+      742
+    ],
+    "alpha_sum": 95865.671875,
+    "margins_left_right_bottom_top": [
+      293,
+      53,
+      67,
+      117
+    ],
+    "corner_alpha": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "wood_decay_mushroom": {
+    "file": "plants/wood_decay_mushroom/contact.png",
+    "size": [
+      2560,
+      742
+    ],
+    "alpha_sum": 100875.125,
+    "margins_left_right_bottom_top": [
+      278,
+      65,
+      41,
+      267
+    ],
+    "corner_alpha": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "pasture_grass": {
+    "file": "plants/pasture_grass/contact.png",
+    "size": [
+      2560,
+      742
+    ],
+    "alpha_sum": 80535.546875,
+    "margins_left_right_bottom_top": [
+      293,
+      146,
+      106,
+      151
+    ],
+    "corner_alpha": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "honeybell_bush": {
+    "file": "plants/honeybell_bush/contact.png",
+    "size": [
+      2560,
+      742
+    ],
+    "alpha_sum": 81118.734375,
+    "margins_left_right_bottom_top": [
+      290,
+      98,
+      88,
+      162
+    ],
+    "corner_alpha": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "oilseed_flower": {
+    "file": "plants/oilseed_flower/contact.png",
+    "size": [
+      2560,
+      742
+    ],
+    "alpha_sum": 93009.3125,
+    "margins_left_right_bottom_top": [
+      291,
+      95,
+      94,
+      85
+    ],
+    "corner_alpha": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "fast_fir": {
+    "file": "plants/fast_fir/contact.png",
+    "size": [
+      2560,
+      1062
+    ],
+    "alpha_sum": 196847.4375,
+    "margins_left_right_bottom_top": [
+      293,
+      70,
+      69,
+      211
+    ],
+    "corner_alpha": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "overview": {
+    "file": "plants/植物四阶段总览.png",
+    "size": [
+      2400,
+      3600
+    ],
+    "alpha_sum": 349481.4375,
+    "margins_left_right_bottom_top": [
+      228,
+      97,
+      141,
+      55
+    ],
+    "corner_alpha": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ]
+  }
+}

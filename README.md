@@ -15,6 +15,7 @@
 | 伐木场 | `_build_lumber.py` | `伐木场_lumber_{front,left,right}.png` | 建筑，三角度 |
 | 速生杉 | `_build_fir.py` | `速生杉_fir_stage_{0..3}[_128].png` + 对照图 | 作物（P8 id `fast_fir`），器官化：放样主干/轮生枝/针叶束/包络树冠 |
 | 松脂树四阶段 | `_build_resin_tree.py` + `_build_resin_family.py` + `_resin_needles.py` | `松脂树_resin_tree.blend`、`松脂树_resin_tree_stage_{0..3}[_128].png`、`松脂树_resin_tree_contact.png` | 作物（P8 id `resin_tree`），针叶芽→弯干幼苗→初生腹瘤与三刷冠→成熟漏脂松；已审 stage_3 原工程与PNG保留 |
+| 其余六植物四阶段 | `_build_plants_mature.py` + `_build_plant_stages.py` + `_plant_kit.py` | `plants/<crop_id>/family.blend`、`stage_{0..3}.png`、小尺寸图及`contact.png`；`plants/植物四阶段总览.png` | 金穗麦、木腐菇、青牧草、蜜铃灌木、油籽花、新版速生杉；成熟体已用户验收，新增18阶段完成。油籽花保留独立花期 |
 | 扇叶灵树 | `_build_broadleaf.py` | `阔叶树_broadleaf_stage_{0..3}[_128].png` + 对照图 | 验证物种（无 P8 id），疙瘩干/卷尾枝/折叠扇叶 |
 | 拼装验证 | `_build_map.py` | `灵田拼装_map.png` | 7×7 仓库土块网格 + 全资产摆位（评审 PASS） |
 
@@ -25,6 +26,8 @@
 - `_mcp_autostart.py`：Blender 启动时自动启用 blender_mcp 插件。
 - `_render_resin_tree.py`：松脂树单阶段渲染与 alpha 非空、四角透明、四边留白校验，生成 `松脂树_resin_tree_stage_3_qc.json`。
 - `_render_resin_family.py`：渲染 stage_0～2 和四阶段对照，验证非空alpha/透明四角/防裁切/高度递增/共同相机和根点投影；读取并核验已审 stage_3，不重渲染或覆盖成熟期文件。
+- `_render_plants_mature.py`、`_plants_mature_review.py`：其余六物种成熟体渲染、接地/透明/留边校验和中文标注验收场景；完整索引见 [成熟植物验收](plants/README.md)。
+- `_render_plant_stages.py`、`_plant_growth_review.py`、`_render_growth_review.py`：成长阶段渲染与同机位/根点/高度递增/早期器官校验、家族并排及总览输出；保存已审成熟文件SHA256，检查24项原文件保持不变。
 
 ## 统一规格
 

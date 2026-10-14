@@ -1,0 +1,32 @@
+[
+  {
+    "asset_id": "golden_wheat",
+    "scale_for_all_four_stages": 1.426032168092809,
+    "row": 0
+  },
+  {
+    "asset_id": "wood_decay_mushroom",
+    "scale_for_all_four_stages": 1.699375651470918,
+    "row": 1
+  },
+  {
+    "asset_id": "pasture_grass",
+    "scale_for_all_four_stages": 1.9720829090879397,
+    "row": 2
+  },
+  {
+    "asset_id": "honeybell_bush",
+    "scale_for_all_four_stages": 1.72849547554226,
+    "row": 3
+  },
+  {
+    "asset_id": "oilseed_flower",
+    "scale_for_all_four_stages": 1.4821693714729975,
+    "row": 4
+  },
+  {
+    "asset_id": "fast_fir",
+    "scale_for_all_four_stages": 0.6382073321111132,
+    "row": 5
+  }
+]
