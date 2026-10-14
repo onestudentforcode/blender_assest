@@ -1,0 +1,569 @@
+{
+  "golden_wheat": {
+    "status": "accepted_by_user",
+    "stage": 3,
+    "outputs": [
+      {
+        "file": "plants/golden_wheat/stage_3.png",
+        "size": [
+          1280,
+          1280
+        ],
+        "alpha_sum": 287972.9375,
+        "margins_left_right_bottom_top": [
+          102,
+          108,
+          76,
+          236
+        ],
+        "corners": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "bbox_top_left": [
+          102,
+          236,
+          1172,
+          1204
+        ]
+      },
+      {
+        "file": "plants/golden_wheat/stage_3_64.png",
+        "size": [
+          64,
+          64
+        ],
+        "alpha_sum": 720.051025390625,
+        "margins_left_right_bottom_top": [
+          5,
+          5,
+          3,
+          12
+        ],
+        "corners": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "bbox_top_left": [
+          5,
+          12,
+          59,
+          61
+        ]
+      }
+    ],
+    "mesh_bounds": [
+      [
+        -0.8558583855628967,
+        0.8658584356307983
+      ],
+      [
+        -0.19726750254631042,
+        0.27629292011260986
+      ],
+      [
+        0.01550672110170126,
+        1.906601071357727
+      ]
+    ],
+    "root": [
+      0,
+      0,
+      0
+    ],
+    "anchor_small": [
+      31.999980926513672,
+      59.37026882171631
+    ],
+    "camera_width": 2.3499999046325684,
+    "camera_elevation": 35,
+    "light_rig": "PM_SERIES_RIG",
+    "approval_note": "成熟体验收通过，开始做其他阶段，速生杉也要做"
+  },
+  "wood_decay_mushroom": {
+    "status": "accepted_by_user",
+    "stage": 3,
+    "outputs": [
+      {
+        "file": "plants/wood_decay_mushroom/stage_3.png",
+        "size": [
+          1280,
+          1280
+        ],
+        "alpha_sum": 284566.71875,
+        "margins_left_right_bottom_top": [
+          189,
+          130,
+          49,
+          536
+        ],
+        "corners": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "bbox_top_left": [
+          189,
+          536,
+          1150,
+          1231
+        ]
+      },
+      {
+        "file": "plants/wood_decay_mushroom/stage_3_64.png",
+        "size": [
+          64,
+          64
+        ],
+        "alpha_sum": 711.5137329101562,
+        "margins_left_right_bottom_top": [
+          9,
+          6,
+          2,
+          26
+        ],
+        "corners": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "bbox_top_left": [
+          9,
+          26,
+          58,
+          62
+        ]
+      }
+    ],
+    "mesh_bounds": [
+      [
+        -0.8742247819900513,
+        0.7734391689300537
+      ],
+      [
+        -0.48313549160957336,
+        0.5097988247871399
+      ],
+      [
+        0.003000000026077032,
+        1.3522447347640991
+      ]
+    ],
+    "root": [
+      0,
+      0,
+      0
+    ],
+    "anchor_small": [
+      31.99997901916504,
+      58.18188953399658
+    ],
+    "camera_width": 2.200000047683716,
+    "camera_elevation": 35,
+    "light_rig": "PM_SERIES_RIG",
+    "approval_note": "成熟体验收通过，开始做其他阶段，速生杉也要做"
+  },
+  "pasture_grass": {
+    "status": "accepted_by_user",
+    "stage": 3,
+    "outputs": [
+      {
+        "file": "plants/pasture_grass/stage_3.png",
+        "size": [
+          1280,
+          1280
+        ],
+        "alpha_sum": 226227.53125,
+        "margins_left_right_bottom_top": [
+          278,
+          293,
+          185,
+          304
+        ],
+        "corners": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "bbox_top_left": [
+          278,
+          304,
+          987,
+          1095
+        ]
+      },
+      {
+        "file": "plants/pasture_grass/stage_3_64.png",
+        "size": [
+          64,
+          64
+        ],
+        "alpha_sum": 565.690185546875,
+        "margins_left_right_bottom_top": [
+          13,
+          14,
+          9,
+          15
+        ],
+        "corners": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "bbox_top_left": [
+          13,
+          15,
+          50,
+          55
+        ]
+      }
+    ],
+    "mesh_bounds": [
+      [
+        -0.5681100487709045,
+        0.5931249856948853
+      ],
+      [
+        -0.5909400582313538,
+        0.5604876279830933
+      ],
+      [
+        0.006000000052154064,
+        1.2404624223709106
+      ]
+    ],
+    "root": [
+      0,
+      0,
+      0
+    ],
+    "anchor_small": [
+      31.999977111816406,
+      51.80958557128906
+    ],
+    "camera_width": 2.0999999046325684,
+    "camera_elevation": 35,
+    "light_rig": "PM_SERIES_RIG",
+    "revision": "v2_erect_lodging_resistant",
+    "design": "束鞘劲草",
+    "review_note": "用户要求更像草并强化抗倒伏：短节间、包茎叶鞘、直立窄V形叶、无回卷尖",
+    "approval_note": "成熟体验收通过，开始做其他阶段，速生杉也要做"
+  },
+  "honeybell_bush": {
+    "status": "accepted_by_user",
+    "stage": 3,
+    "outputs": [
+      {
+        "file": "plants/honeybell_bush/stage_3.png",
+        "size": [
+          1280,
+          1280
+        ],
+        "alpha_sum": 244450.421875,
+        "margins_left_right_bottom_top": [
+          160,
+          197,
+          76,
+          325
+        ],
+        "corners": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "bbox_top_left": [
+          160,
+          325,
+          1083,
+          1204
+        ]
+      },
+      {
+        "file": "plants/honeybell_bush/stage_3_64.png",
+        "size": [
+          64,
+          64
+        ],
+        "alpha_sum": 611.1608276367188,
+        "margins_left_right_bottom_top": [
+          7,
+          9,
+          3,
+          16
+        ],
+        "corners": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "bbox_top_left": [
+          7,
+          16,
+          55,
+          61
+        ]
+      }
+    ],
+    "mesh_bounds": [
+      [
+        -0.7767389416694641,
+        0.8431669473648071
+      ],
+      [
+        -0.2717318534851074,
+        0.3679179549217224
+      ],
+      [
+        0.003000000026077032,
+        1.7051281929016113
+      ]
+    ],
+    "root": [
+      0,
+      0,
+      0
+    ],
+    "anchor_small": [
+      31.999980926513672,
+      58.880059242248535
+    ],
+    "camera_width": 2.25,
+    "camera_elevation": 35,
+    "light_rig": "PM_SERIES_RIG",
+    "approval_note": "成熟体验收通过，开始做其他阶段，速生杉也要做"
+  },
+  "oilseed_flower": {
+    "status": "accepted_by_user",
+    "stage": 3,
+    "outputs": [
+      {
+        "file": "plants/oilseed_flower/stage_3.png",
+        "size": [
+          1280,
+          1280
+        ],
+        "alpha_sum": 304738.71875,
+        "margins_left_right_bottom_top": [
+          240,
+          192,
+          90,
+          172
+        ],
+        "corners": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "bbox_top_left": [
+          240,
+          172,
+          1088,
+          1190
+        ]
+      },
+      {
+        "file": "plants/oilseed_flower/stage_3_64.png",
+        "size": [
+          64,
+          64
+        ],
+        "alpha_sum": 761.796142578125,
+        "margins_left_right_bottom_top": [
+          11,
+          9,
+          4,
+          8
+        ],
+        "corners": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "bbox_top_left": [
+          11,
+          8,
+          55,
+          60
+        ]
+      }
+    ],
+    "mesh_bounds": [
+      [
+        -0.821658194065094,
+        0.7270102500915527
+      ],
+      [
+        -0.4474339485168457,
+        0.2538638710975647
+      ],
+      [
+        0.008894765749573708,
+        1.9647877216339111
+      ]
+    ],
+    "root": [
+      0,
+      0,
+      0
+    ],
+    "anchor_small": [
+      31.999980926513672,
+      59.09792232513428
+    ],
+    "camera_width": 2.3499999046325684,
+    "camera_elevation": 35,
+    "light_rig": "PM_SERIES_RIG",
+    "flowering_reference": [
+      {
+        "file": "plants/oilseed_flower/flowering.png",
+        "size": [
+          1280,
+          1280
+        ],
+        "alpha_sum": 362703.0,
+        "margins_left_right_bottom_top": [
+          240,
+          192,
+          90,
+          125
+        ],
+        "corners": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "bbox_top_left": [
+          240,
+          125,
+          1088,
+          1190
+        ]
+      },
+      {
+        "file": "plants/oilseed_flower/flowering_64.png",
+        "size": [
+          64,
+          64
+        ],
+        "alpha_sum": 906.3176879882812,
+        "margins_left_right_bottom_top": [
+          11,
+          9,
+          4,
+          6
+        ],
+        "corners": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "bbox_top_left": [
+          11,
+          6,
+          55,
+          60
+        ]
+      }
+    ],
+    "approval_note": "成熟体验收通过，开始做其他阶段，速生杉也要做"
+  },
+  "fast_fir": {
+    "status": "accepted_by_user",
+    "stage": 3,
+    "outputs": [
+      {
+        "file": "plants/fast_fir/stage_3.png",
+        "size": [
+          1280,
+          1920
+        ],
+        "alpha_sum": 558353.9375,
+        "margins_left_right_bottom_top": [
+          55,
+          140,
+          54,
+          423
+        ],
+        "corners": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "bbox_top_left": [
+          55,
+          423,
+          1140,
+          1866
+        ]
+      },
+      {
+        "file": "plants/fast_fir/stage_3_128.png",
+        "size": [
+          128,
+          192
+        ],
+        "alpha_sum": 5583.63916015625,
+        "margins_left_right_bottom_top": [
+          5,
+          14,
+          5,
+          42
+        ],
+        "corners": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "bbox_top_left": [
+          5,
+          42,
+          114,
+          187
+        ]
+      }
+    ],
+    "mesh_bounds": [
+      [
+        -1.5027257204055786,
+        1.7579200267791748
+      ],
+      [
+        -1.461767315864563,
+        1.5369389057159424
+      ],
+      [
+        0.003000000026077032,
+        4.552433013916016
+      ]
+    ],
+    "root": [
+      0,
+      0,
+      0
+    ],
+    "anchor_small": [
+      63.99998474121094,
+      168.06242179870605
+    ],
+    "camera_width": 3.8499999046325684,
+    "camera_elevation": 35,
+    "light_rig": "PM_SERIES_RIG",
+    "approval_note": "成熟体验收通过，开始做其他阶段，速生杉也要做"
+  }
+}

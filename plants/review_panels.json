@@ -1,0 +1,50 @@
+[
+  {
+    "asset_id": "golden_wheat",
+    "source_scene": "PM_golden_wheat_Stage3",
+    "display_scale": 1.6430356080665454,
+    "label": "金穗麦"
+  },
+  {
+    "asset_id": "wood_decay_mushroom",
+    "source_scene": "PM_wood_decay_mushroom_Stage3",
+    "display_scale": 1.7600676390234506,
+    "label": "木腐菇"
+  },
+  {
+    "asset_id": "pasture_grass",
+    "source_scene": "PM_pasture_grass_Stage3",
+    "display_scale": 2.042514441555366,
+    "label": "青牧草"
+  },
+  {
+    "asset_id": "honeybell_bush",
+    "source_scene": "PM_honeybell_bush_Stage3",
+    "display_scale": 1.7902274568116263,
+    "label": "蜜铃灌木"
+  },
+  {
+    "asset_id": "oilseed_flower",
+    "source_scene": "PM_oilseed_flower_Stage3",
+    "display_scale": 1.5379530719847052,
+    "label": "油籽花 · 成熟"
+  },
+  {
+    "asset_id": "oilseed_flower_flowering",
+    "source_scene": "PM_oilseed_flower_Flowering",
+    "display_scale": 1.4537287095132037,
+    "label": "油籽花 · 花期对照"
+  },
+  {
+    "asset_id": "fast_fir",
+    "source_scene": "PM_fast_fir_Stage3",
+    "display_scale": 0.6610004511150817,
+    "label": "速生杉 · 强化候选"
+  },
+  {
+    "asset_id": "resin_tree",
+    "source_scene": "RT_ResinTree_Stage3",
+    "display_scale": 0.8308127493506631,
+    "label": "松脂树 · 已验收参考"
+  }
+]
